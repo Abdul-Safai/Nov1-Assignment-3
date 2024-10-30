@@ -23,5 +23,9 @@ The wiki consists of several Markdown files, each dedicated to a specific area o
 - **Contribute.md**: Guidelines for contributing to the wiki.
 - **References.md**: Links to external resources and documentation.
 
+![Build Status](https://img.shields.io/badge/build-passing-brightgreen)
+![License](https://img.shields.io/badge/license-MIT-blue)
+
+
 
 
