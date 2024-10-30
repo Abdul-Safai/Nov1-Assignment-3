@@ -1,6 +1,6 @@
-# Troubleshooting Common Issues in App Development Wiki
+# Assignment 3
 
-Welcome to the **Troubleshooting Common Issues in App Development** repository! This repository hosts a wiki designed to assist developers, particularly beginners, in identifying and resolving common challenges encountered during app development.
+This repository hosts a wiki named **Troubleshooting Common Issues in App Development**. It is designed to assist developers, particularly beginners, in identifying and resolving common challenges encountered during app development.
 
 ## Overview
 
@@ -30,5 +30,5 @@ To access the wiki, follow these steps:
 1. **Clone the Repository**:
    Open your terminal and run:
    ```bash
-   git clone https://github.com/username/repo-name.git
+   git clone https://github.com/username/Assignment-3.git
 
