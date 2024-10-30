@@ -98,13 +98,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 Thank you for visiting! We hope this wiki aids you in navigating the complexities of app development and enhances your learning experience.
 ```
-
-### Instructions
-
-1. **Open VS Code** or your preferred text editor.
-2. **Create a new file** named `README.md`.
-3. **Copy and paste** the entire content above into the new file.
-4. **Update the placeholders** (like `username` and your email).
-5. **Save the file**.
-
-Let me know if you need any more adjustments or additional sections!
