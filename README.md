@@ -23,12 +23,5 @@ The wiki consists of several Markdown files, each dedicated to a specific area o
 - **Contribute.md**: Guidelines for contributing to the wiki.
 - **References.md**: Links to external resources and documentation.
 
-## Getting Started
 
-To access the wiki, follow these steps:
-
-1. **Clone the Repository**:
-   Open your terminal and run:
-   ```bash
-   git clone https://github.com/username/Assignment-3.git
 
