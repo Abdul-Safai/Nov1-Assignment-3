@@ -1,6 +1,9 @@
 # Assignment 3
 
+![Build Status](https://img.shields.io/badge/build-passing-brightgreen) ![License](https://img.shields.io/badge/license-MIT-blue)
+
 This repository hosts a wiki named **Troubleshooting Common Issues in App Development**. It is designed to assist developers, particularly beginners, in identifying and resolving common challenges encountered during app development.
+
 
 ## Overview
 
