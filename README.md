@@ -1,6 +1,4 @@
-Here’s the complete `README.md` including the contributing section in one code block:
 
-```markdown
 # Assignment 3
 
 ![Build Status](https://img.shields.io/badge/build-passing-brightgreen) ![License](https://img.shields.io/badge/license-MIT-blue)
